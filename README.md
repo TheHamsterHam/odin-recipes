@@ -17,7 +17,7 @@ Note:
 webpage but can be read by other who looks at the code.
 -to bold words or sentences type <strong></strong>, to italicize text type <em></em>.
 -To add a image type <img scr="your image link here" alt="an alt is a description of your
-image">.
+image if the image fails to load or to help those with a reader">.
 -To create a link use <a href=""></a>, there are two type of links absolute and relative
 links. Absolute links are links with protocol://domain/path, while relative links are 
 created to link pages/images within your website.
