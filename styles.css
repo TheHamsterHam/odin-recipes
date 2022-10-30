@@ -1,0 +1,13 @@
+html {
+    background: linear-gradient(180deg, rgb(91, 232, 63), rgb(34, 202, 224) );
+    min-height: 100vh;
+}
+
+.div-one {
+    text-align: center;
+}
+
+.div-two {
+    text-align: center;
+    font-weight: bolder;
+}
